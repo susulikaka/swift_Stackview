@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "84F154C61D86ACBA006D6A61"
-               BuildableName = "swift_layoutLearn.app"
-               BlueprintName = "swift_layoutLearn"
-               ReferencedContainer = "container:swift_layoutLearn.xcodeproj">
+               BuildableName = "swift_StackView.app"
+               BlueprintName = "swift_StackView"
+               ReferencedContainer = "container:swift_StackView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "84F154DA1D86ACBB006D6A61"
-               BuildableName = "swift_layoutLearnTests.xctest"
-               BlueprintName = "swift_layoutLearnTests"
-               ReferencedContainer = "container:swift_layoutLearn.xcodeproj">
+               BuildableName = "swift_StackView.xctest"
+               BlueprintName = "swift_StackViewTests"
+               ReferencedContainer = "container:swift_StackView.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "84F154E51D86ACBB006D6A61"
-               BuildableName = "swift_layoutLearnUITests.xctest"
-               BlueprintName = "swift_layoutLearnUITests"
-               ReferencedContainer = "container:swift_layoutLearn.xcodeproj">
+               BuildableName = "swift_StackView.xctest"
+               BlueprintName = "swift_StackViewUITests"
+               ReferencedContainer = "container:swift_StackView.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84F154C61D86ACBA006D6A61"
-            BuildableName = "swift_layoutLearn.app"
-            BlueprintName = "swift_layoutLearn"
-            ReferencedContainer = "container:swift_layoutLearn.xcodeproj">
+            BuildableName = "swift_StackView.app"
+            BlueprintName = "swift_StackView"
+            ReferencedContainer = "container:swift_StackView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84F154C61D86ACBA006D6A61"
-            BuildableName = "swift_layoutLearn.app"
-            BlueprintName = "swift_layoutLearn"
-            ReferencedContainer = "container:swift_layoutLearn.xcodeproj">
+            BuildableName = "swift_StackView.app"
+            BlueprintName = "swift_StackView"
+            ReferencedContainer = "container:swift_StackView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84F154C61D86ACBA006D6A61"
-            BuildableName = "swift_layoutLearn.app"
-            BlueprintName = "swift_layoutLearn"
-            ReferencedContainer = "container:swift_layoutLearn.xcodeproj">
+            BuildableName = "swift_StackView.app"
+            BlueprintName = "swift_StackView"
+            ReferencedContainer = "container:swift_StackView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

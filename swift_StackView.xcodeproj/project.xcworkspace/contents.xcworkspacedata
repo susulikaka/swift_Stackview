@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:swift_layoutLearn.xcodeproj">
+      location = "self:/Users/admin/Desktop/swift_layoutLearn/swift_StackView.xcodeproj">
    </FileRef>
 </Workspace>
